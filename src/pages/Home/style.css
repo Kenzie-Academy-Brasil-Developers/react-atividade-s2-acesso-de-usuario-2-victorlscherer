@@ -1,0 +1,24 @@
+.container {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  color: aqua;
+  align-items: center;
+  justify-content: center;
+}
+
+.listClass li {
+  text-decoration: none;
+  list-style: none;
+  color: rgb(39, 190, 59);
+}
+
+.listClassLink {
+  color: aqua;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+}
+.listClassLink:hover {
+  opacity: 0.4;
+}

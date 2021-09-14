@@ -1,0 +1,13 @@
+.containerData {
+  color: aqua;
+}
+
+.listClassData {
+  color: aqua;
+  text-decoration: none;
+  list-style: none;
+}
+
+.listClassData:hover {
+  opacity: 0.4;
+}
